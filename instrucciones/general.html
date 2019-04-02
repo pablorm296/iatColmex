@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<p class="main">
+    A continuación, verá una pantalla como esta:
+</p>
+<div style="text-align: center;">
+    <img src="instrucciones/ejemplo.png" alt="ejemplo" width="400" height="234">
+</div>
+<p class="main">
+    En el centro de la pantalla, le presentaremos una serie de <b>imágenes y palabras</b>. Cuando una imagen o palabra
+    aparezca, tendrá que clasificarlas, lo más rápido que pueda, en alguna de las siguientes <b>categorías que
+        aparecerán
+        del lado izquierdo y derecho de la pantalla (las áreas color verde)</b>:
+    <ul>
+        <li>Personas morenas;</li>
+        <li>Personas blancas;</li>
+        <li>Palabras positivas; y</li>
+        <li>Palabras negativas;</li>
+    </ul>
+</p>
+<p class="main">
+    Para asignar una imagen o palabra a una categoría, <b>toque con sus dedos el área de color verde que contiene la
+    categoría correspondiente</b>.
+</p>
+<p class="main">
+    Estos son algunos ejemplos de las imágenes y palabras que clasificará:
+</p>
+<table>
+    <tr>
+        <th>Categorías</th>
+        <th>Elementos</th>
+    </tr>
+    <tr>
+        <td>Personas morenas</td>
+        <td>
+            <span id="mor"></span>
+            <div id="loader_1" class="loader"></div>
+        </td>
+    </tr>
+    <tr>
+        <td>Personas blancas</td>
+        <td>
+            <span id="bla"></span>
+            <div id="loader_2" class="loader"></div>
+        </td>
+    </tr>
+    <tr>
+        <td>Palabras positivas</td>
+        <td>
+            <span id="positivas"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>Palabras negativas</td>
+        <td>
+            <span id="negativas"></span>
+        </td>
+    </tr>
+</table>
+<p class="main">
+    La velocidad importa. <b>Tiene que clasificar las imágenes y palabras lo más rápido que pueda</b>. Los resultados
+    de esta prueba no serán válidos si se tarda mucho en clasificar las imágenes y palabras. Si se equivoca
+    al hacer la clasificación (por ejemplo, asignar "amor" a la categoría "palabras negativas"), verá un tache rojo y no
+    podrá avanzar en la prueba hasta que haga la clasificación correcta.
+</p>
+<div style="text-align: center; padding: 10px">
+    <div id="loader" class="loader"></div>
+    <button id="continuarButton" class="main" ontouchstart="">Continuar</button>
+</div>

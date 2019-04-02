@@ -1,0 +1,93 @@
+{
+    "1": {
+        "inst": "En este bloque, el <b>área izquierda</b> de la pantalla corresponde a <b>palabras negativas</b>. El <b>área derecha</b> corresponde a <b>palabras positivas</b>.<br/>Para clasificar la palabra que aparecerá en el centro, toca el área correspondiente. <b>Tienes que ser lo más rápido posible</b>.",
+        "izq": "Palabras negativas",
+        "izq_val": [
+            "neg"
+        ],
+        "der": "Palabras positivas",
+        "der_val": [
+            "pos"
+        ],
+        "trials": 16,
+        "type": "text"
+    },
+    "2": {
+        "inst": "En este bloque, el <b>área izquierda</b> de la pantalla corresponde a <b>personas morenas</b>. El <b>área derecha</b> corresponde a <b>personas blancas</b>.<br/>Para clasificar la imagen que aparecerá en el centro, toca el área correspondiente. <b>Tienes que ser lo más rápido posible</b>.",
+        "izq": "Personas morenas",
+        "izq_val": [
+            "mor"
+        ],
+        "der": "Personas blancas",
+        "der_val": [
+            "bla"
+        ],
+        "trials": 16,
+        "type": "imgs"
+    },
+    "3": {
+        "inst": "En este bloque, el <b>área izquierda</b> de la pantalla corresponde a <b>palabras negativas o personas morenas</b>. El <b>área derecha</b> corresponde a <b>palabras positivas o personas blancas</b>.<br/>Para clasificar la palabra que aparecerá en el centro, toca el área correspondiente. <b>Tienes que ser lo más rápido posible</b>.",
+        "izq": "Palabras negativas<br />o<br />Personas morenas",
+        "izq_val": [
+            "neg", "mor"
+        ],
+        "der":  "Palabras positivas<br />o<br />Personas blancas",
+        "der_val": [
+            "pos", "bla"
+        ],
+        "trials": 36,
+        "type": "text&imgs"
+    },
+    "4": {
+        "inst": "Nuevamente, en este bloque, el <b>área izquierda</b> de la pantalla corresponde a <b>palabras negativas o personas morenas</b>. El <b>área derecha</b> corresponde a <b>palabras positivas o personas blancas</b>.<br/>Para clasificar la palabra que aparecerá en el centro, toca el área correspondiente. <b>Tienes que ser lo más rápido posible</b>.",
+        "izq": "Palabras negativas<br />o<br />Personas morenas",
+        "izq_val": [
+            "neg", "mor"
+        ],
+        "der": "Palabras positivas<br />o<br />Personas blancas",
+        "der_val": [
+            "pos", "bla"
+        ],
+        "trials": 36,
+        "type": "text&imgs"
+    },
+    "5": {
+        "inst": "En este bloque, el <b>área izquierda</b> de la pantalla corresponde a <b>palabras positivas</b>. El <b>área derecha</b> corresponde a <b>palabras negativas</b>.<br/>Para clasificar la palabra que aparecerá en el centro, toca el área correspondiente. <b>Tienes que ser lo más rápido posible</b>.",
+        "izq": "Palabras positivas",
+        "izq_val": [
+            "pos"
+        ],
+        "der": "Palabras negativas",
+        "der_val": [
+            "neg"
+        ],
+        "trials": 16,
+        "type": "text"
+    },
+    "6": {
+        "inst": "En este bloque, el <b>área izquierda</b> de la pantalla corresponde a <b>palabras positivas o personas morenas</b>. El <b>área derecha</b> corresponde a <b>palabras negativas o personas blancas</b>.<br/>Para clasificar la palabra o imagen que aparecerá en el centro, toca el área correspondiente. <b>Tienes que ser lo más rápido posible</b>.",
+        "izq": "Palabras positivas<br />o<br />Personas morenas",
+        "izq_val": [
+            "pos", "mor"
+        ],
+        "der": "Palabras negativas<br />o<br />Personas blancas",
+        "der_val": [
+            "neg", "bla"
+        ],
+        "trials": 36,
+        "type": "text&imgs"
+    },
+    "7": {
+        "inst": "Nuevamente, en este bloque, el <b>área izquierda</b> de la pantalla corresponde a <b>palabras positivas o personas morenas</b>. El <b>área derecha</b> corresponde a <b>palabras negativas o personas blancas</b>.<br/>Para clasificar la palabra o imagen que aparecerá en el centro, toca el área correspondiente. <b>Tienes que ser lo más rápido posible</b>.",
+        "izq": "Palabras positivas<br />o<br />Personas morenas",
+        "izq_val": [
+            "pos", "mor"
+        ],
+        "der": "Palabras negativas<br />o<br />Personas blancas",
+        "der_val": [
+            "neg", "bla"
+        ],
+        "trials": 36,
+        "type": "text&imgs"
+    }
+}

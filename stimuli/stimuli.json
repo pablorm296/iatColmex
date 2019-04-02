@@ -1,0 +1,226 @@
+{
+    "words": {
+        "honestidad": {
+            "cat": "pos"
+        },
+        "alegría": {
+            "cat": "pos"
+        },
+        "paz": {
+            "cat": "pos"
+        },
+        "felicidad": {
+            "cat": "pos"
+        },
+        "justicia": {
+            "cat": "pos"
+        },
+        "belleza": {
+            "cat": "pos"
+        },
+        "agradable": {
+            "cat": "pos"
+        },
+        "honor": {
+            "cat": "pos"
+        },
+        "éxito": {
+            "cat": "pos"
+        },
+        "prosperidad": {
+            "cat": "pos"
+        },
+        "pobreza": {
+            "cat": "neg"
+        },
+        "pereza": {
+            "cat": "neg"
+        },
+        "cárcel": {
+            "cat": "neg"
+        },
+        "fracaso": {
+            "cat": "neg"
+        },
+        "fealdad": {
+            "cat": "neg"
+        },
+        "desagradable": {
+            "cat": "neg"
+        },
+        "terrible": {
+            "cat": "neg"
+        },
+        "horrible": {
+            "cat": "neg"
+        },
+        "odio": {
+            "cat": "neg"
+        },
+        "suciedad": {
+            "cat": "neg"
+        }
+    },
+    "images": {
+        "1": {
+            "path": "stimuli/1.jpg",
+            "cat": "bla",
+            "gen": "h",
+            "smile": 1,
+            "hair": 0,
+            "tyc": 1
+        },
+        "2": {
+            "path": "stimuli/2.jpg",
+            "cat": "bla",
+            "gen": "m",
+            "smile": 1,
+            "hair": 1,
+            "tyc": 0
+        },
+        "3": {
+            "path": "stimuli/3.jpg",
+            "cat": "bla",
+            "gen": "m",
+            "smile": 0,
+            "hair": 1,
+            "tyc": 0
+        },
+        "4": {
+            "path": "stimuli/4.jpg",
+            "cat": "bla",
+            "gen": "h",
+            "smile": 1,
+            "hair": 0,
+            "tyc": 1
+        },
+        "5": {
+            "path": "stimuli/5.jpg",
+            "cat": "bla",
+            "gen": "m",
+            "smile": 0,
+            "hair": 1,
+            "tyc": 0
+        },
+        "6": {
+            "path": "stimuli/6.jpg",
+            "cat": "bla",
+            "gen": "m",
+            "smile": 1,
+            "hair": 1,
+            "tyc": 0
+        },
+        "7": {
+            "path": "stimuli/7.jpg",
+            "cat": "bla",
+            "gen": "h",
+            "smile": 0,
+            "hair": 0,
+            "tyc": 1
+        },
+        "8": {
+            "path": "stimuli/8.jpg",
+            "cat": "bla",
+            "gen": "m",
+            "smile": 0,
+            "hair": 1,
+            "tyc": 0
+        },
+        "9": {
+            "path": "stimuli/9.jpg",
+            "cat": "bla",
+            "gen": "h",
+            "smile": 1,
+            "hair": 0,
+            "tyc": 1
+        },
+        "10": {
+            "path": "stimuli/10.jpg",
+            "cat": "bla",
+            "gen": "h",
+            "smile": 1,
+            "hair": 0,
+            "tyc": 0
+        },
+        "11": {
+            "path": "stimuli/11.jpg",
+            "cat": "mor",
+            "gen": "m",
+            "smile": 1,
+            "hair": 1,
+            "tyc": 0
+        },
+        "12": {
+            "path": "stimuli/12.jpg",
+            "cat": "mor",
+            "gen": "h",
+            "smile": 0,
+            "hair": 0,
+            "tyc": 1
+        },
+        "13": {
+            "path": "stimuli/13.jpg",
+            "cat": "mor",
+            "gen": "h",
+            "smile": 1,
+            "hair": 0,
+            "tyc": 0
+        },
+        "14": {
+            "path": "stimuli/14.jpg",
+            "cat": "mor",
+            "gen": "h",
+            "smile": 0,
+            "hair": 0,
+            "tyc": 0
+        },
+        "15": {
+            "path": "stimuli/15.jpg",
+            "cat": "mor",
+            "gen": "m",
+            "smile": 1,
+            "hair": 0,
+            "tyc": 0
+        },
+        "16": {
+            "path": "stimuli/16.jpg",
+            "cat": "mor",
+            "gen": "h",
+            "smile": 1,
+            "hair": 0,
+            "tyc": 1
+        },
+        "17": {
+            "path": "stimuli/17.jpg",
+            "cat": "mor",
+            "gen": "m",
+            "smile": 1,
+            "hair": 0,
+            "tyc": 0
+        },
+        "18": {
+            "path": "stimuli/18.jpg",
+            "cat": "mor",
+            "gen": "m",
+            "smile": 0,
+            "hair": 1,
+            "tyc": 0
+        },
+        "19": {
+            "path": "stimuli/19.jpg",
+            "cat": "mor",
+            "gen": "h",
+            "smile": 0,
+            "hair": 0,
+            "tyc": 1
+        },
+        "20": {
+            "path": "stimuli/20.jpg",
+            "cat": "mor",
+            "gen": "m",
+            "smile": 0,
+            "hair": 0,
+            "tyc": 0
+        }
+    }
+}
