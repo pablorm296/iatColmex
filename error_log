@@ -1,0 +1,8 @@
+[18-Mar-2019 18:57:45 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'numralco_admin'@'localhost' to database 'numralco_iat' in /home/numralco/iat.num3ral.com/php_modules/db_config.php on line 6
+[18-Mar-2019 18:57:45 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/numralco/iat.num3ral.com/php_modules/initExp.php on line 23
+[18-Mar-2019 18:57:45 America/Mexico_City] PHP Warning:  main(): Couldn't fetch mysqli in /home/numralco/iat.num3ral.com/php_modules/initExp.php on line 26
+[18-Mar-2019 18:57:45 America/Mexico_City] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/numralco/iat.num3ral.com/php_modules/initExp.php on line 29
+[18-Mar-2019 19:04:07 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'numralco_admin'@'localhost' to database 'numralco_iat' in /home/numralco/iat.num3ral.com/php_modules/db_config.php on line 6
+[18-Mar-2019 19:04:07 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/numralco/iat.num3ral.com/php_modules/initExp.php on line 23
+[18-Mar-2019 19:04:07 America/Mexico_City] PHP Warning:  main(): Couldn't fetch mysqli in /home/numralco/iat.num3ral.com/php_modules/initExp.php on line 26
+[18-Mar-2019 19:04:07 America/Mexico_City] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/numralco/iat.num3ral.com/php_modules/initExp.php on line 29
